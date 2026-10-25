@@ -27,20 +27,15 @@
 4. Coba interaksi pada setiap fitur
 
 ## Screenshot Hasil
+
 ### 1. Tampilan Program
-![ss1](Cuplikan%20layar%202026-10-25%20022455.png)
+![tampilan](ss%20tampilan%20program.png.png)
 
-### 2. Hasil Console & Kalkulator Nilai
-![ss2](Cuplikan%20layar%202026-10-25%20022514.png)
-![ss3](Cuplikan%20layar%202026-10-25%20022540.png)
-![ss4](Cuplikan%20layar%202026-10-25%20022605.png)
+### 2. Kalkulator Nilai
+![kalkulator](ss%20kalkulator.png.png)
 
-### 3. Daftar Menu & Perhitungan Total
-![ss5](Cuplikan%20layar%202026-10-25%20022621.png)
-![ss6](Cuplikan%20layar%202026-10-25%20022642.png)
+### 3. Hasil Kalkulator
+![hasil](ss%20hasil.png.png)
 
-### 4. Log Commit GitHub
-![ss7](Cuplikan%20layar%202026-10-25%20022705.png)
-
-## Link GitHub Pages (Jika diaktifkan)
-https://dyahtriastini2-tech.github.io/Lab5Web/
+### 4. Log Commit
+Commit ada 27 kali, bisa dilihat di menu 27 Commits
